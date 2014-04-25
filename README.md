@@ -6,7 +6,9 @@ More PRISM
 
 # Functionality
 
-I got full functionality of Part 1 for this lab on Friday, 18 MAR at 1045. I demonstrated this functionality to Dr. Neeble.
+I got full functionality of Part 1 for this lab on Friday, 18 APR at 1045. I demonstrated this functionality to Dr. Neeble.
+
+I demonstrated full functionality, on the FPGA, for part 2 to Capt Silva on Friday 25 APR at 1030. This is one calender day late from the due date.
 
 
 
