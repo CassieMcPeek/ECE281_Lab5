@@ -33,7 +33,7 @@ end Nexys2_top_shell;
 
 architecture Behavioral of Nexys2_top_shell is
 
----------------------------------------------------------------------------------------
+
 --This component converts a nibble to a value that can be viewed on a 7-segment display
 --Similar in function to a 7448 BCD to 7-seg decoder
 --Inputs: 4-bit vector called "nibble"
